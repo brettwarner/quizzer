@@ -1,5 +1,6 @@
 quizzer
 =======
+An old project that I never even started.
 
 Quizzer is basically my MEAN Stack playground. Probably won't ever be of any use to anyone but myself.  
 
